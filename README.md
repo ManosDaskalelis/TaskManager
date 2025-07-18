@@ -1,6 +1,6 @@
 # 📝 Task Manager - WinForms App
 
-Μια desktop εφαρμογή για διαχείριση εργασιών (tasks) με χρήση **WinForms**, **SQLite**, και **Clean Architecture**.
+Μια desktop εφαρμογή για διαχείριση εργασιών (tasks) με χρήση **WinForms**, **SQLite**.
 
 ---
 
