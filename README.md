@@ -34,5 +34,4 @@
 | ----------------------- | ----------------------------- |
 | WinForms                | GUI εφαρμογή για Windows      |
 | EF Core + SQLite        | ORM + embedded βάση δεδομένων |
-| Microsoft.Extensions.\* | DI, Hosting, Configuration    |
 | BCrypt.Net              | Hashing passwords             |
